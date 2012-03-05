@@ -1,0 +1,17 @@
+{
+  "author": "Tobias Kopelke <nox@demoncode.de>",
+  "name": "line-stream",
+  "description": "library to read a stream line by line",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lordnox/node-linestream.git"
+  },
+  "main": "linestream.coffee",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
